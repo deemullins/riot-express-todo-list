@@ -3,15 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/deemullins/riot-express-todo-list.git"
-  },
   "author": "Pedro Narciso García Revington <p.revington@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "node-cmd": "^3.0.0",
+    "node-ssh": "^5.1.2"
   }
 }
