@@ -1,5 +1,5 @@
 {
-  "name": "riot-express-todo-list",
+  "name": "nodejs-riot-todo",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -12,8 +12,6 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "jade": "^1.11.0",
-    "node-cmd": "^3.0.0",
-    "node-ssh": "^5.1.2"
+    "jade": "^1.11.0"
   }
 }
